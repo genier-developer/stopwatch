@@ -1,0 +1,45 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #edf6fe;
+
+}
+
+.containerBlock {
+    border: 5px solid #1769aa;
+    background-color: #dbeefd;
+    padding: 10px 30px;
+    border-radius: 10px;
+    color: #3577ab;
+}
+
+.header {
+    text-align: center;
+    font-size: 30px;
+
+}
+
+.display {
+    text-align: center;
+    align-items: center;
+    font-size: 32px;
+    font-weight: bold;
+    border: 3px solid #1769aa;
+    border-radius: 5px;
+
+
+}
+
+.buttonBlock {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 20px 0 20px;
+    gap: 10px;
+}
+
+
+
+
